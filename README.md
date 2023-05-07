@@ -1,1 +1,3 @@
 # Estudo-DataScience
+Neste projeto usei uma base de dados do site Kaggle com informações de imóveis de São Paulo que foi tratada para respeitar o anonimato e as diretrizes da LGPD. No decorrer do arquivo, uso e explico técnicas da linguagem Python e suas bibliotecas usadas na manipulação, tratamento e visualização de dados.
+Agradeço por se dispor a ler meu material de estudo. Superei muitos desafios na construção do código e adiquiri muitos conhecimentos valiosos, não só técnicos como também de pesquisa, maneiras de estudo e resiliência. Peço que para qualquer dica, correção ou ajuda, basta me procurar pelos contatos em meu perfil.
